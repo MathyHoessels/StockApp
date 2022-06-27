@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "249352701808",
+    "firebase_url": "https://stockhoessels-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "stockhoessels",
+    "storage_bucket": "stockhoessels.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249352701808:android:ca8198a89d94f242a0f1b5",
+        "android_client_info": {
+          "package_name": "com.hoessels.stockapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249352701808-lt7j866gt0drbqaafmhit2s2er9ht38e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYMvqmW87suaMRRPUQWx9rvdJlrhJu1Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249352701808-lt7j866gt0drbqaafmhit2s2er9ht38e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
